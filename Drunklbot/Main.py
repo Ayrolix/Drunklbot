@@ -8,9 +8,9 @@ from twitchio.ext import commands
 from twitchio.ext.commands.errors import CommandOnCooldown
 from Economy import Economy
 
-twitch_oauth = "oauth:982mhx1diurawr8tbkyeyypxju3h58"
-twitch_secret = "zrxpxegt84lopadu0phtfucucw1d77"
-twitch_id = "mayuntjukunwnqbtbqm5bhl1eufng8"
+twitch_oauth = ""
+twitch_secret = ""
+twitch_id = ""
 
 class Nykitna(commands.Bot):
 	def __init__(self):
